@@ -7,3 +7,5 @@ class ApiResponse {
         // status code = error code 
     }
 }
+
+export {ApiResponse}
